@@ -1,0 +1,16 @@
+form{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 5px;
+    margin:5px;
+    background-color: rgb(95, 41, 41);
+    color:aliceblue;
+}
+.btn{
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    color:rgb(95, 41, 41);
+    text-align: center;
+}
